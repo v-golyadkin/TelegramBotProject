@@ -1,0 +1,5 @@
+from keyboards.admin_keyboard import admin_keyboard
+from keyboards.client_keyboard import client_keyboard
+
+from keyboards.admin_keyboard import remove_keyboard
+from keyboards.client_keyboard import remove_keyboard
